@@ -4,7 +4,7 @@ Some, such as Sidewinder and Necrohack were fully designed with the intention to
 
 All the ideas are mine alone; however, the template for them is free to use with appropriate credit.
 
-##Table of Contents
+## Table of Contents
 
 *AndersonDatorien_RVN_Category1 - A High Pitch concept created for the Raven Software Jr. Campaign Designer position.
 *Cipher Protocol Design Document - Early Concept document of a contained, zero-sum game. Still in progress. Project Cipher was designed as a horror mystery with the idea of giving clues to the player via a cmd type window. This idea would have used a WorldResourceManager script to keep track of all resources and make sure non spawn back within' certain limits.
