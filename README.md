@@ -13,7 +13,7 @@ All the ideas are mine alone; however, the template for them is free to use with
           - Simulation of Agent Cards / Mock ups here: https://docs.google.com/spreadsheets/d/1C8pUIWSC4505ULU8LwpIXpGqj4vZ6ZZLhLfD6h3lczQ/edit?usp=sharing
 * __Project Necrohack__ - High Pitch/Creative Doc of a horror/puzzle game about hacking the dead to gain their knowledge to solve a mystery.
 * __Project Trainpusher__ - High Pitch/Creative Doc about a game-based on surviving purely on a train in a zombie-apocalypse type world.
-* __Project Deignis__ - Game Design Document about a horror/cult sim-type game where the player manages a BnB, Cult and must end another cult. Three endings proposed; this would be a narrative-based one with a type of game timer and warning system. 
+* __Project Deignis__ - Game Design Document about a horror/cult sim-type game where the player manages a BnB, an occult and must end another cult. Three endings proposed; this would be a narrative-based one with a type of game timer and warning system. 
 * __Solomon's Gambit__ - High Pitch concept with Payout matrices for a slot machine; which includes a pity system game type. Payout is based on official rules.
 * __Project Schism__ - A game jam game *(created in a month)* where the prompt is playing both sides; the player must balance light and dark to get through. Playtests included.
 * __Project Kowloon__ - A Battle-Royale type game pitch where all players must ascended contained inside of a Kowloon-style walled city building and must ascend to the top; minimal guns, only using melee. There would have been a gas pushing upwards to keep players progressing.
