@@ -6,7 +6,6 @@ All the ideas are mine alone; however, the template for them is free to use with
 
 ## Table of Contents
 
-* __AndersonDatorien_RVN_Category1__ - A High Pitch concept created for the Raven Software Jr. Campaign Designer position.
 * __Cipher Protocol Design Document__ - Early Concept document of a contained, zero-sum game. Still in progress. Project Cipher was designed as a horror mystery with the idea of giving clues to the player via a cmd type window. This idea would have used a WorldResourceManager script to keep track of all resources and make sure non spawn back within' certain limits.
 * __OmegaColony_FinalGDD__ - Fully finished game design document of a Space based card game created for a course project in 2018. Playtests included.
 * __Project SIDEWINDER__ - Creative/Game Design Document of a game I proprosed in Feburary 2021; a card-based, narrative game with a time limit. Was to be helped with by another programmer and discord group called Electro Wizardry. After Omega Rex, was done -- helped with Production of Omega Rex. https://electrowizardry.itch.io/omegarex (However, main programmer disappeared thus project is in limbo.) 
