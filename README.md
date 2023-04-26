@@ -1,4 +1,4 @@
-# GDDs
+# GDDs && XMLs
 These are game design documents; and high pitch documents that I have created in my endeavours of thinking of projects and exploring ideas. 
 Some, such as Sidewinder and Necrohack were fully designed with the intention to create a prototype, and then start creating scalable iterations based on feedback for a paid project.
 
