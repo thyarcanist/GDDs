@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Locations>
+	<Olympus>
+		<Name>Olympus</Name>
+		<Description>Home of the gods, demi-gods and the occassional mortal visitor to Olympus. A beautiful place with a lot of different activities and people.</Description>
+	  <Location>
+		<Name>Palace of Apollo</Name>
+		<World>Olympus</World>
+		<Description>The grand palace of Apollo, the god of music, prophecy, and healing in Greek mythology.</Description>
+	  </Location>
+	  <Location>
+		  <Name>Gardens of Adonis</Name>
+		  <World>Olympus</World>
+	  </Location>
+	  <Location>
+		  <Name>Terra</Name>
+		  <World>Olympus</World>
+	  </Location>
+
+	  <Location>
+		  <Name>Underworld</Name>
+		  <World>Olympus</World>
+	  </Location>
+	  
+	</Olympus>
+	<Space>
+	<Name>Space</Name>
+	<Description>The wide, everexpanding expanse of empty galaxies, stars, stardust and starlight.</Description>
+	<Location>
+	<Name>The Terminus</Name>
+	<World>None</World>
+	<Description>A high-tech space station that serves as a hub for the Terminus employees and guests alike.</Description>
+	<Secrets>The Terminus is a living space-station, its size adapts to the total number of people living on the station.</Secrets>
+	<Sublocations>
+		<Location>
+			<Name>Resident District</Name>
+			<Areas>
+				<Location>Atrium</Location>
+				<Description>Central Area of the Residental Blocks. The "skylight" has a day to night-time progression based on Terminus Time. (STT-Standard Terminus Time)</Description>
+				<Modules>
+					<Module>
+						<Name>Housing</Name>
+						<Description>Uniform sized space with a bathroom, kitchen space, living space, bed and storage.</Description>
+					</Module>					
+				</Modules>
+				<Location>Recreation Center</Location>
+			</Areas>
+		</Location>
+		<Location>
+			<Name>Commercial District</Name>
+			<Areas>
+				<Location>Boba Fette
+					<Description>A boba tea place!</Description>
+				</Location>
+				<Location>Starblaze Cafe</Location>
+				<Location>Glow Golf</Location>
+			</Areas>
+		</Location>
+		<Location>
+			<Name>Entertainment District</Name>
+			<Areas>
+				<Location>Trampoline Park</Location>
+				<Location>Karaoke Bar</Location>
+			</Areas>
+		</Location>
+		<Location>
+			<Name>Secuity Research and Development Module</Name>
+			<Areas>
+				<Location>Combat Training Gym</Location>
+				<Location>Zero Gravity Activities</Location>
+				<Location>Field Research Acquisitions Archives</Location>
+			</Areas>
+		</Location>
+	</Sublocations>
+</Location>
+	</Space>
+	<Earth>
+		<Name>Earth</Name>
+		<Description>Our modern Earth, what of it?</Description>
+		<Sublocations>
+			<Location>United States
+				<Places>Kentucky
+					<City>Louisville</City>
+				</Places>
+			</Location>
+		</Sublocations>
+	</Earth>
+</Locations>

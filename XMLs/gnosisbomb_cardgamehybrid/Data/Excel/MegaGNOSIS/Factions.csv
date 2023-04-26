@@ -1,0 +1,12 @@
+﻿ID,Name,Description,Preset,Color,%Judge Parents,Openness,Imagination,Artistic Interests,Emotionality,Adventurousness,Intellect,Liberalism,Conscientiousness,Self-efficacy,Orderliness,Dutifulness,Achievement-striving,Self-discipline,Cautiousness,Extraversion,Friendliness,Gregariousness,Assertiveness,Activity Level,Excitement-seeking,Cheerfulness,Agreeableness,Trust,Morality,Altruism,Cooperation,Modesty,Sympathy,Neuroticism,Anxiety,Anger,Depression,Self-consciousness,Immoderation,Vulnerability,Parents
+0,Player,This the player's main faction.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,VOID,This is the parent VOID faction.,0,0,0,65,45,20,0,75,50,75,45,50,0,35,10,0,0,0,0,0,0,35,35,0,20,45,0,40,35,0,0,0,0,0,0,0,0,0
+2,TOBI,This is the parent TOBI faction.,0,0,0,35,50,0,0,35,45,-40,35,0,0,35,0,50,0,0,-25,0,30,-30,-30,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Contacts,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Lt. Kaelin,The faction for Lt. Kaelin NPC.,0,0,10,35,-30,0,0,0,15,-25,0,0,0,0,0,0,25,0,50,-25,30,0,0,0,0,0,20,35,0,0,10,0,-50,-50,-50,-50,0,-50,Louisville PD
+6,Lt. Cissel,Lt. Cissel NPC.,0,0,0,-40,35,0,0,0,35,0,0,0,35,75,75,50,50,-35,10,35,40,0,0,0,0,25,50,-25,50,0,0,0,0,0,35,15,-50,-25,Military
+7,Peter Gast,Ex-Priest Peter Gast,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Casey Wenz,Casey Wenz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Louisville PD,,0,2,0,0,0,0,0,0,0,0,0,0,25,25,0,0,-35,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,Law
+10,Law,,0,0,0,-50,-25,0,-50,35,20,-50,0,0,50,50,0,50,75,35,25,0,50,50,-25,-40,0,0,50,10,20,0,0,0,0,0,0,0,0,0
+11,Military,,0,0,0,35,40,20,0,50,35,15,-50,30,75,65,20,0,45,35,50,35,50,0,0,0,0,25,0,0,75,0,0,35,25,25,15,0,0,25,Law

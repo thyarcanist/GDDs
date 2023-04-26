@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Worlds>
+  <World>
+    <Earth>
+      <Name>Earth</Name>
+      <Description>Modern Earth</Description>
+	<GodStatus>Godless</GodStatus>
+      <Religion>Varies</Religion>
+	<Biome>Varied</Biome>
+    </Earth>
+    <Olympus>
+      <Name>Terra</Name>
+      <Description>Ancient Greece and Rome, alternate Earth</Description>
+      <Religion>Greek Pantheon</Religion>
+	<GodStatus>God-Living</GodStatus>
+	<Biome>Strictly Mediterrian</Biome>
+    </Olympus>
+  </World>
+</Worlds>

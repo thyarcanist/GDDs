@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+	<Factions>
+		<Olympus>
+		<Item>
+		<Name>Nectar</Name>
+		<Description>A magical drink consumed by the gods that grants immortality and eternal youth.</Description>
+		<Effect>Grants immortality and eternal youth.</Effect>
+		</Item>
+		<Item>
+		<Name>Ambrosia</Name>
+		<Description>A magical food consumed by the gods that grants immortality and strength.</Description>
+		<Effect>Grants immortality and strength.</Effect>
+		</Item>
+		</Olympus>
+		<Terminus>
+		<Item>
+			<Name>Body Armor</Name>
+			<Description>A lightweight, flexible body armor made of advanced materials such as Kevlar or carbon fiber.</Description>
+			<Effect>Provides protection against bullets, projectiles, and supernatural attacks.</Effect>
+			<Utilizes>Armor Plates</Utilizes>
+			<RestrictedTo>Laurae Nil</RestrictedTo>
+		</Item>
+		<Item>
+			<Name>Smart-Notebook Device</Name>
+			<Description>A notebook with advanced features such as voice recognition and transcription, handwriting recognition, and wireless data transfer.</Description>
+			<Effect>Can store and transfer data wirelessly and take pictures of important documents or artifacts.</Effect>
+			<RestrictedTo>Laurae Nil</RestrictedTo>
+		</Item>
+		<Item>
+			<Name>Silver Ring</Name>
+			<Description>A ring with advanced features such as heart rate monitoring, sleep tracking, and activity tracking.</Description>
+			<Effect>Has a built-in GPS tracker that can help navigate Olympus, and wearer can monitor their health statistics.</Effect>
+			<RestrictedTo>Laurae Nil</RestrictedTo>
+		</Item>		
+		<!-- Laurae Gear -->
+		<Item>
+		<Name>Sig Sauer P226 Pistol</Name>
+		<Description>A semi-automatic pistol customized by the Terminus for Laurae Nil.</Description>
+		<Effect>Provides a reliable and accurate handgun for Laurae Nil's personal defense.</Effect>
+		<Attachments>
+			<Attachment>Rail-mounted flashlight</Attachment>
+			<Attachment>Attachable Silencer</Attachment>
+			<Attachment>Toggleable IR/Standard Laser Sight</Attachment>
+			<Attachment>Extended Magazine</Attachment>
+		</Attachments>
+		<RestrictedTo>Laurae Nil</RestrictedTo>
+	</Item>
+		<Item>
+		<Name>Tavor X95L DMR</Name>
+		<Description>A customized Designated Marksman Rifle (DMR) based on the Tavor X95L platform.</Description>
+		<Effect>Provides Laurae Nil with a long-range, accurate rifle for medium to long-range engagements.</Effect>
+		<Attachments>
+			<Attachment>Foldable and Detachable Bipod</Attachment>
+			<Attachment>Canted Sight, Med-Range Scope</Attachment>
+			<Attachment>Integrated Supressor</Attachment>
+			<Attachment>Extended Magazine</Attachment>
+		</Attachments>
+		<RestrictedTo>Laurae Nil</RestrictedTo>
+	</Item>
+		<Item>
+		<Name>Honey Badger SBR</Name>
+		<Description>A Personal Defense Weapon (PDW) customized by the Terminus for Laurae Nil.</Description>
+		<Effect>Provides Laurae Nil with a compact and lightweight firearm for close-quarters combat situations.</Effect>
+		<Attachments>
+			<Attachment>Foregrip</Attachment>
+			<Attachment>Attachable Silencer</Attachment>
+			<Attachment>ACOG Sight, canted Red Dot Sight</Attachment>
+			<Attachment>Extended Magazine</Attachment>
+		</Attachments>
+		<RestrictedTo>Laurae Nil</RestrictedTo>
+	</Item>
+		</Terminus>
+	</Factions>
+</Items>

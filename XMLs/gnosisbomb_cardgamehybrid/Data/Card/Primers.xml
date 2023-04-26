@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <primer>
+        <Card PrimerName ="The Lingering Dread" code ="PRIMTLD0">
+        <Description CardDescript = "There is something odd at work, you can't quite figure out what but it's disturbing you."> </Description> 
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+        </Card>
+      <Card PrimerName = "Whales Washed Ashore" code ="PRIMWWA0">
+        <Description CardDescript = "There have been a couple of odd whale sighting, the people aren't sure what to think about it- an omen, perhaps?"> </Description>
+        <CardAlignment Align = "Bad"> </CardAlignment>
+      </Card>
+      <Card PrimerName = "An Odd Family" code ="PRIMAOF0">
+        <Description CardDescript = "There is an odd family that is around these parts, people have looked towards them for the source of their pronlems."> </Description>
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+      </Card>
+      <Card PrimerName = "A Wooded Mystery" code ="PRIMAWM0">
+        <Description CardDescript = "There has been a mysterious sighting in the woods; you've gone to investigate."> </Description>
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+      </Card>
+      <Card PrimerName = "A Gargoyle in the City" code ="PRIMAGC0">
+        <Description CardDescript = "There have been reports of a gargoyle in the city; whether it's true or not remains a mystery."> </Description>
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+      </Card>
+      <Card PrimerName = "Hospital Recieves Donation" code ="PRIMHRD0">
+        <Description CardDescript = "The local hopital has recieved a lofty sum in donation. You wonder why..."> </Description>
+        <CardAlignment Align = "Good"> </CardAlignment>
+      </Card>
+    </primer>
+

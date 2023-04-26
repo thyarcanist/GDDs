@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<primer xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        code="PRIMWWA0" primerName="Whales Washed Ashore" 
+        description="There have been a couple of odd whale sighting, the people aren't sure what to think about it- an omen, perhaps?" 
+        alignment="Bad" 
+        keyword="anxious"
+        />

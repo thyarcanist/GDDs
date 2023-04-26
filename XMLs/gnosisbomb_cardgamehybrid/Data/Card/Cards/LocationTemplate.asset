@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6887d263408981543a10d0a1c3f9ccd8, type: 3}
+  m_Name: LocationTemplate
+  m_EditorClassIdentifier: 
+  type: Location
+  cardName: Warehouse
+  cardObj: {fileID: 0}
+  currentCardType: 1
+  entityType: 2
+  KarmaRange: 0
+  currentEventType: 0
+  primerName: 
+  cardAlignment: 
+  locationName: 
+  entryLevel: 0
+  stashAmount: 0
+  cardKey: 
+  code: LOCWAR0
+  description: 

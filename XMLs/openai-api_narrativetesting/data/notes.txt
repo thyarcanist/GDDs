@@ -1,0 +1,2 @@
+The idea is to fine-tune it with the OpenAI API and use it as the main reference along with some other information.
+Allowing for a read/write at specific points in the events .xml and such

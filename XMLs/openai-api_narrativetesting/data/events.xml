@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events>
+	<Description>These are the events in history, current events that can happen depending on possible data and secrets that drive.</Description>
+	<History>
+			<!-- Apollo and Eros Mythology edits -->
+		<PastEvent>
+		<Name>Apollo's Pursuit of Daphne</Name>
+		<Description>Apollo falls in love with Daphne and pursues her relentlessly, but is also dealing with jealousy and possessiveness towards Eros, his occasional lover.</Description>
+		<Characters>
+			<Character>Apollo</Character>
+			<Character>Eros</Character>
+			<Character>Daphne</Character>
+		</Characters>
+		<Effects>
+			<Effect>
+				<Type>Jealous</Type>
+				<Target>Daphne</Target>
+				<Intensity>High</Intensity>
+			</Effect>
+			<Effect>
+				<Type>Possessiveness</Type>
+				<Target>Daphne</Target>
+				<Intensity>High</Intensity>
+			</Effect>
+			<Effect>
+				<Type>Secret Affair</Type>
+				<Target>Eros</Target>
+				<Intensity>Medium</Intensity>
+			</Effect>
+		</Effects>
+		<Conclusion>
+	In the myth of Apollo's Pursuit of Daphne, Apollo's relentless pursuit of her could potentially be driven by a layer of jealousy or possessiveness since he and Eros were lovers. As Eros may have intentionally caused this unrequited love, Apollo's struggle to win Daphne's affection would have been more complicated. He may have tried to convince himself and others that he was only interested in her, when in reality, he was also dealing with conflicting feelings towards Eros. On the other hand, if Eros was sympathetic to Apollo's plight, he may have tried to help Apollo win Daphne's affections despite his own feelings for Apollo. The story of Daphne ultimately serves as a cautionary tale about the dangers of unchecked desire and the importance of respecting others' autonomy and boundaries.
+		</Conclusion>
+
+
+	</PastEvent>
+		<PastEvent>
+		<Name>Eros's Affair with Psyche</Name>
+		<Description>Eros falls in love with Psyche and visits her secretly, but is also dealing with a sense of betrayal towards Apollo, his occassional lover, if he finds out about the affair.</Description>
+		<Characters>
+			<Character>Eros</Character>
+			<Character>Psyche</Character>
+			<Character>Apollo</Character>
+		</Characters>
+		<Effects>
+			<Effect>
+				<Type>Secrecy</Type>
+				<Target>Eros</Target>
+				<Intensity>High</Intensity>
+			</Effect>
+			<Effect>
+				<Type>Deception</Type>
+				<Target>Psyche</Target>
+				<Intensity>High</Intensity>
+			</Effect>
+			<Effect>
+				<Type>Betrayal</Type>
+				<Target>Apollo</Target>
+				<Intensity>Medium</Intensity>
+			</Effect>
+		</Effects>
+		<Conclusion>
+		The fact that Eros is often depicted as a beautiful, winged god, while Apollo is the god of prophecies and visions, adds an interesting layer of conflict and irony to the story of Psyche falling in love with an "ugly" monster. As Eros forbids Psyche from looking at him. It also underscores the idea that beauty is not just skin deep, and that true love transcends appearances. The fact that Apollo is the god of prophecies may suggest that he foresaw the outcome of Psyche's love affair with Eros, adding to his bitterness and jealousy. Apollo, being the god of prophecies, had saw the outcome of their love affair and felt powerless to stop it. This made Apollo's feelings of betrayal and hurt even more intense, and lead to him acting out in ways that he wouldn't normally. The outcome between Psyche and Eros-- was an understand of what eventually evolved into a familial love rather than a romantic one.
+		</Conclusion>
+	</PastEvent>
+		<PastEvent> 
+			<!-- Terminus Events -->
+		</PastEvent>
+	
+	</History>
+	
+	<Current>
+		<Major>
+			<Rule>These are major plot events that can happen to dictate how it should go.</Rule>
+			<Event>
+				<Title>Event Title</Title>
+				<Description>This is a description for the event.</Description>
+				<Outcomes>Outcomes are determined by the end of the threading.</Outcomes>
+					<Locked> <!-- Add a read/write function that can set to events as unlocked. -->
+						<isLocked>Locked</isLocked>
+						<UnlockedBy>Major Events needs "x" to happen.</UnlockedBy>
+					</Locked>
+					<Triggered>  <!--This means has the event been triggered, if so, skip over this possible event-->
+						<isTriggered>No</isTriggered>
+						<Prerequisites>
+							<Prerequisite>None</Prerequisite>
+						</Prerequisites>
+					</Triggered>
+					<Repeatable>No</Repeatable> <!-- Determines whether or not the event can be repeatable. -->
+			</Event>
+		</Major>
+		<Minor>
+			<Rule>These are mostly for character development and general progression.</Rule>
+				<MinorEvent> <!-- Minor Event Template --> 
+					<Title>Event Title</Title>
+					<Description>This is a description for the event.</Description>
+					<Outcomes>Outcomes are determined by the end of the threading.</Outcomes>
+					<Locked> <!-- Add a read/write function that can set to events as unlocked. -->
+						<isLocked>Locked</isLocked>
+						<UnlockedBy>Major Events needs "x" to happen.</UnlockedBy>
+					</Locked>
+					<Triggered>  <!--This means has the event been triggered, if so, skip over this possible event-->
+						<isTriggered>No</isTriggered>
+						<Prerequisites>
+							<Prerequisite>None</Prerequisite>
+						</Prerequisites>
+					</Triggered>
+					<Repeatable>Yes</Repeatable> <!-- Determines whether or not the event can be repeatable. -->
+				</MinorEvent>
+				<MinorEvent> <!-- Minor Event Template /Better --> 
+					<Title>Truth or Dare</Title>
+					<Description>Play a game of truth or dare.</Description>
+					<Outcomes>Outcomes are determined by the end of the threading.</Outcomes>
+					<Locked> <!-- Add a read/write function that can set to events as unlocked. -->
+						<isLocked>Locked</isLocked>
+						<UnlockedBy>Major Events needs "x" to happen.</UnlockedBy>
+					</Locked>
+					<Triggered>  <!--This means has the event been triggered, if so, skip over this possible event-->
+						<isTriggered>No</isTriggered>
+						<Prerequisites>
+							<Prerequisite>None</Prerequisite>
+						</Prerequisites>
+					</Triggered>
+					<Repeatable>Yes</Repeatable> <!-- Determines whether or not the event can be repeatable. -->
+				</MinorEvent>		
+		
+		
+		</Minor>
+	</Current>
+	
+	<Secrets> <!--Add a read/write function for secrets. -->
+		<Rule>Secrets are minor things that can add conflict or drive the plot.</Rule>
+		<Description>Secrets are minor things that can add conflict or drive the plot.</Description>
+		<SecretList> <!-- Thinking of adding something like Secret Holder, which is who has this secret. -->
+				<Secret>A minor secret. <!-- Template Secret -->
+				<Description>This is the secret description.</Description>
+				<Discovered>No</Discovered>
+				<Target>Target(s) of the secret.</Target>
+				<Effects>
+					<Effect>This secret has "x" effect.</Effect>
+				</Effects>
+			</Secret>
+				<Secret>Laurae's Favorite Greek God <!-- Laurae's Favorite Greek God -->
+				<Description>Something happened, maybe a little drunkenness? But, it's come out that Laurae's favorite Greek God is Dionysus. Who would have thought?</Description>
+				<Discovered>No</Discovered>
+				<Target>Dionysus, Olympus</Target>
+				<Effects>
+					<Effect>Increased friendliness with Dionysus.</Effect>
+					<Effect>A few Olympians might be upset their not her favorite.</Effect>
+				</Effects>
+			</Secret>		
+				<Secret>Forever Bound to Knowledge <!-- Laurae's longevity. -->
+				<Description>Laurae will exist for as long as either to Terminus or Xibir exists; she is more tied to the Terminus however. This means that she won't age and well, she definitely won't die-- unless she decides to.</Description>
+				<Discovered>No</Discovered>
+				<Target>Laurae</Target>
+				<Effects>
+					<Effect>Dependent on who discovers and what they think of it.</Effect>
+				</Effects>
+			</Secret>		
+		</SecretList>	
+	</Secrets>
+	
+</Events>

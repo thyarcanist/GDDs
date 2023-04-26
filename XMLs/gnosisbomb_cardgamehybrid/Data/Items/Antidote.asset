@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa01fe560c2b22a4aa6825284efea856, type: 3}
+  m_Name: Antidote
+  m_EditorClassIdentifier: 
+  itemName: Antidote
+  description: Feeling a little off? This'll help.
+  itemLook: {fileID: 0}
+  usageAmount: 1
+  durability: 100
+  value: 80
+  perishable: 0
+  perishTime: 0
+  itemWeight: 0
+  canItemBeUsed: 1
+  healingAmount: 0
+  foodType: 0
+  type: 1
+  isInUse: 0
+  GetEntryLevel: 0

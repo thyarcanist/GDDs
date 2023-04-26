@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CardCollection>
+    <Primers>
+        <Card PrimerName = "The Lingering Dread">
+        <Code Code ="PRIMTLD0"> </Code>
+        <Description CardDescript = "There is something odd at work, you can't quite figure out what but it's disturbing you."> </Description> 
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+        </Card>
+        <Card PrimerName = "Whales Washed Ashore">
+         <Code Code ="PRIMWWA0"> </Code>
+        <Description CardDescript = "There have been a couple of odd whale sighting, the people aren't sure what to think about it- an omen, perhaps?"> </Description>
+        <CardAlignment Align = "Bad"> </CardAlignment> 
+        </Card>
+        <Card PrimerName = "An Odd Family">
+        <Code Code ="PRIMAOF0"> </Code>
+        <Description CardDescript = "There is an odd family that is around these parts, people have looked towards them for the source of their pronlems."> </Description> 
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+        </Card>
+        <Card PrimerName = "A Wooded Mystery">
+         <Code Code ="PRIMAWM0"> </Code>
+        <Description CardDescript = "There has been a mysterious sighting in the woods; you've gone to investigate."> </Description> 
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+        </Card>
+        <Card PrimerName = "A Gargoyle in the City">
+        <Code Code ="PRIMAGC0"> </Code>
+        <Description CardDescript = "There have been reports of a gargoyle in the city; whether it's true or not remains a mystery."> </Description> 
+        <CardAlignment Align = "Neutral"> </CardAlignment>
+        </Card>
+        <Card PrimerName = "Hospital Recieves Donation">
+        <Code Code ="PRIMHRD0"> </Code>
+        <Description CardDescript = "The local hopital has recieved a lofty sum in donation. You wonder why..."> </Description> 
+        <CardAlignment Align = "Good"> </CardAlignment>
+        </Card>
+    </Primers>
+    <Locations>
+        <Location locationName = "Warehouse">
+        <Code Code ="LOCWARE0"> </Code>
+        <Description LocDescript = "A warehouse used to store goods."> </Description>
+        <EntryLevel>2</EntryLevel>
+        </Location>
+        <Location locationName = "Hospital">
+        <Code Code ="LOCHOSP0"> </Code>
+        <Description LocDescript = "An average hospital used to help people."> </Description>
+        <EntryLevel>5</EntryLevel>
+        </Location>
+        <Location locationName = "Waffle Emporium">
+        <Code Code ="LOCWAFF0"> </Code>
+        <Description LocDescript = "A local chain restaurant that sells hotcakes, waffles, and hash browns. Apparently, an oddspot for strange happeninings."> </Description>
+        <EntryLevel>7</EntryLevel>
+        </Location>
+        <Location locationName = "The Forest">
+        <Code Code ="LOCTFOST0"> </Code>
+        <Description LocDescript = "A wide-spanning forest whose trees obstruct cell signals."> </Description>
+        <EntryLevel>1</EntryLevel>
+        </Location>
+        <Location locationName = "Plantation House">
+        <Code Code ="LOCPLAHOU0"> </Code>
+        <Description LocDescript = "An old plantation house that has stood against the testaments of time."> </Description>
+        <EntryLevel>3</EntryLevel>
+        </Location>
+        <Location locationName = "Sanatorium">
+        <Code Code ="LOCSANA0"> </Code>
+        <Description LocDescript = "People used to besent there to be treated for tuberculosis or in hospice care."> </Description>
+        <EntryLevel>2</EntryLevel>
+        </Location>
+    </Locations>
+</CardCollection>

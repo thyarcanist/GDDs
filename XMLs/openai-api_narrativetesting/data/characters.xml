@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Characters>
+	<Olympians>
+		<Major>
+			<Character> <!-- Apollo -->
+    <Name>Apollo</Name>
+    <Species>Olympian God</Species>
+    <Gender>Male</Gender>
+    <Sexuality>Bisexual</Sexuality>
+    <Affiliation>Olympians</Affiliation>
+    <Titles>
+      <GodofSun/>
+      <GodofMusic/>
+      <GodofPoetry/>
+      <GodofProphecy/>
+    </Titles>
+    <Skills>
+      <Archery/>
+      <Healing/>
+      <Music/>
+      <Poetry/>
+      <Prophecy/>
+    </Skills>
+    <Comparison>
+      <Reference>
+        <Name>Apollo</Name>
+        <Affiliation>Classical Mythology</Affiliation>
+      </Reference>
+    </Comparison>
+    <Relationships>
+      <Family>
+        <Name>Zeus</Name>
+        <Nature>Father</Nature>
+      </Family>
+      <Family>
+        <Name>Leto</Name>
+        <Nature>Mother</Nature>
+      </Family>
+      <Family>
+        <Name>Artemis</Name>
+        <Nature>Twin Sister</Nature>
+      </Family>
+      <Family>
+        <Name>Aristaeus</Name>
+        <Nature>Son</Nature>
+      </Family>
+      <Family>
+        <Name>Asclepius</Name>
+        <Nature>Son</Nature>
+      </Family>
+		  <Friendship>
+			  <Name>Apollo</Name>
+			  <Intensity>Close</Intensity>
+			  <Nature>Intimately Connected</Nature>
+		  </Friendship>
+		  <Friendship>
+			  <Name>Laurae Nil</Name>
+			  <Intensity>Close</Intensity>
+			  <Nature>Unknowingly Connected</Nature>
+		  </Friendship>      
+      
+    </Relationships>
+    <Appearance>
+      <SkinTone>Pale</SkinTone>
+      <Hair>Golden</Hair>
+      <EyeColor>Blue</EyeColor>
+      <Race>Greek God</Race>
+    </Appearance>
+    <Style>
+      <Color>White</Color>
+      <Accents>
+        <Gold/>
+        <Silver/>
+      </Accents>
+      <Favorite>
+        <Item>Lyre</Item>
+        <Details>Decorated with sun and lyre symbols</Details>
+      </Favorite>
+      <Interests>
+        <Music/>
+        <Poetry/>
+        <Prophecy/>
+        <Archery/>
+      </Interests>
+    </Style>
+    <Personality>
+      <Traits>
+        <Confident/>
+        <Creative/>
+        <Intelligent/>
+        <Passionate/>
+        <Proud/>
+        <Vengeful/>
+        <Protective/>
+      </Traits>
+      <Behavior>
+        <Dignified/>
+        <Loyal/>
+        <Noble/>
+        <Righteous/>
+      </Behavior>
+    </Personality>
+  </Character>
+			<Character>
+	  <Name>Zeus</Name>
+	  <Species>God</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+  </Character>
+			<Character>
+	  <Name>Hera</Name>
+	  <Species>Goddess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+  </Character>
+			<Character>
+	  <Name>Poseiden</Name>
+	  <Species>God</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+  </Character>
+			<Character>
+	  <Name>Demeter</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+			<Character>
+	  <Name>Athena</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+			<Character>
+	  <Name>Artemis</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+			<Character>
+	  <Name>Ares</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>	  
+	</Character>
+			<Character>
+	  <Name>Hephaestus</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+			<Character>
+	  <Name>Hermes</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+			<Character>
+	  <Name>Hestia</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+			<Character>
+	  <Name>Dionsyus</Name>
+	  <Species>Godess</Species>
+	  <Affliation>Olympians</Affliation>
+	  <Group>Main Pantheon of the Olympians</Group>
+	</Character>
+		</Major>
+		<Minor>
+			<Character> <!-- Eros -->
+		<Name>Eros</Name>
+		<Species>God</Species>
+		<Gender>Male</Gender>
+		<Sexuality>Bisexual</Sexuality>
+		<Affiliation>Olympians</Affiliation>
+		<Titles>
+		  <GodofLove />
+		  <GodofSexualDesire />
+		</Titles>
+		<Skills>
+			  <Archery />
+			  <Teleportation />
+			  <Shapeshifting />
+			  <Charm />
+			  <Persuasion />
+			  <Healing />
+			  <Mischief />
+		</Skills>
+		<Comparison>
+		  <Reference>
+        <Name>Cupid</Name>
+        <Franchise>Roman Mythology</Franchise>
+      </Reference>
+		  <Reference>
+        <Name>Eros</Name>
+        <Franchise>Greek Mythology</Franchise>
+      </Reference>
+		</Comparison>
+		<Relationships>
+		  <Family>
+			<Name>Aphrodite</Name>
+			<Relation>Mother</Relation>
+		  </Family>
+		  <Family>
+			<Name>Ares</Name>
+			<Relation>Father</Relation>
+		  </Family>
+		  <Family>
+			<Name>Harmonia</Name>
+			<Relation>Half-sister</Relation>
+		  </Family>
+		  <Family>
+			<Name>Anteros</Name>
+			<Relation>Brother</Relation>
+		  </Family>
+		  <Friendship>
+			  <Name>Apollo</Name>
+			  <Intensity>Close</Intensity>
+			  <Nature>Intimately Connected</Nature>
+		  </Friendship>
+		  <Friendship>
+			  <Name>Laurae Nil</Name>
+			  <Intensity>Close</Intensity>
+			  <Nature>Unknowingly Connected</Nature>
+		  </Friendship>
+		  
+    </Relationships>
+		<Appearance>
+      <SkinTone>Pale, youthful complexion</SkinTone>
+      <Hair>Blonde, curly hair</Hair>
+      <EyeColor>Bright blue</EyeColor>
+      <Race>Greek God</Race>
+    </Appearance>
+		<Style>
+      <Color>Pink</Color>
+      <Accents>
+        <Gold />
+      </Accents>
+      <Favorite>
+        <Item>Bow and arrows</Item>
+        <Details>Golden and embellished with hearts</Details>
+      </Favorite>
+      <Interests>
+        <Romance />
+        <Matchmaking />
+        <Music />
+      </Interests>
+    </Style>
+		<Personality>
+      <Traits>
+        <Passionate />
+        <Charismatic />
+        <Mischievous />
+        <Charming />
+        <Playful />
+        <Optimistic />
+        <Caring />
+      </Traits>
+      <Behavior>
+        <Flirtatious />
+        <Impulsive />
+        <Empathetic />
+        <Sensitive />
+      </Behavior>
+    </Personality>
+	  </Character>
+			<Character>
+				<Name>Pan</Name>
+				<Species>God</Species>
+				<Affiliation>Olympians</Affiliation>
+			  </Character>
+		</Minor>
+	</Olympians>
+	<Terminus>
+		<Major>
+			<Character>	<!-- Laurae -->
+			  <Name>Laurae Nil</Name>
+				<Nicknames>
+					<Nickname>Laurae</Nickname>
+					<Nickname>Rae</Nickname>
+					<Nickname>Agent Nil</Nickname>
+					<Nickname>Nil</Nickname>
+				  </Nicknames>
+			  <Gender>Female</Gender>
+			  <Sexuality>Bisexual</Sexuality>
+			  <Species>Human</Species>
+			  <Affiliation>Terminus</Affiliation>
+			  <Occupation>Terminus Agent</Occupation>
+			  <Skills>
+				<Stealth />
+				<Evasion />
+				<Marksmanship />
+				<Lockpicking />
+				<ZeroGravity />
+				<Spacefaring />
+			  </Skills>
+			  <MainLanguage>English</MainLanguage>
+			  <LanguagesLearned>
+					<Language>Spanish</Language>
+					<Language>Greek</Language>
+					<Language>Korean</Language>
+					<Language>French</Language>
+			  </LanguagesLearned>
+			  <Comparison>
+				<Reference>
+						<Name>ONI Operative</Name>
+						<Organization>ONI</Organization>
+						<Division>Delta-6 Division</Division>
+						<Franchise>Halo</Franchise>
+				</Reference>
+				<Reference>
+					  <Name>Sam Fisher</Name>
+					  <Franchise>Splinter Cell</Franchise>
+				</Reference>
+			  </Comparison>
+				<Family>
+	<Name>Peyton Nil</Name>
+		<Nature>Cousin</Nature>
+	</Family>
+			  <Relationships>
+    <Friendship>
+      <Name>Apollo</Name>
+      <Intensity>Close</Intensity>
+      <Nature>Unknowingly connected</Nature>
+    </Friendship>
+    <Friendship>
+      <Name>Eros</Name>
+      <Intensity>Close</Intensity>
+      <Nature>Unknowingly connected</Nature>
+    </Friendship>
+    <Friendship>
+      <Name>Olympians</Name>
+      <Intensity>Budding</Intensity>
+    </Friendship>
+  </Relationships>
+			  <Appearance>
+    <SkinTone>Light golden brown with cool vein undertones</SkinTone>
+    <Hair>Dark brown with reddish tinge</Hair>
+    <EyeColor>Dark Brown</EyeColor>
+    <Race>Black American</Race>
+  </Appearance>
+			  <Style>
+    <Color>Black</Color>
+    <Accents>
+      <Gold />
+      <Silver />
+    </Accents>
+    <Favorite>
+      <Item>Leather jacket</Item>
+      <Details>Black and gold-colored patterned lining</Details>
+    </Favorite>
+    <Interests>
+      <FashionShows />
+      <Lingerie />
+      <ClassicalArt />
+      <Gaming />
+    </Interests>
+  </Style>
+			  <Personality>
+    <Traits>
+      <Active />
+      <Adventurous />
+      <Independent />
+      <Stubborn />
+      <Playful />
+      <Loyal />
+      <Protective />
+      <Feisty />
+    </Traits>
+    <Behavior>
+      <Guarded />
+      <ClosedOff />
+      <Wariness>High</Wariness>
+    </Behavior>
+  </Personality>
+				<Misc>
+					<Virtuoso>
+						<Band>
+							<Name>Terminal</Name>
+							<References> <!-- Band References -->
+								<Reference>
+									<Name>Cane Hill</Name>
+									<Albums>
+										<Album>Kill The Sun</Album>
+										<Album>Cane Hill</Album>
+										<Single>Blood and Honey</Single>
+									</Albums>
+								</Reference>
+								<Reference>
+									<Name>Nine Inch Nails</Name>
+									<Albums>
+										<Album>The Fragile</Album>
+										<Album>Still</Album>
+										<Single>She's Gone Away</Single>
+										<Single>This Isn't The Place</Single>								
+									</Albums>
+								</Reference>							
+								<Reference>
+									<Name>Have A Nice Life</Name>
+									<Albums>
+										<Album>Deathconciousness</Album>							
+									</Albums>
+								</Reference>								
+								<Reference>
+									<Name>Deftones</Name>
+									<Albums>
+										<Album>Koi No Yokan</Album>
+										<Album>Diamond Eyes</Album>
+										<Single>She's Gone Away</Single>						
+									</Albums>
+								</Reference>								
+								<Reference>
+									<Name>Loathe</Name>
+									<Albums>
+										<Album>I Let It In And It Took Everything</Album>
+										<Single>Is It Really You?</Single>						
+									</Albums>
+								</Reference>
+							<Reference>
+									<Name>Zamilska</Name>
+									<Albums>
+										<Album>Untune</Album>
+										<Album>Uncovered</Album>
+										<Single>Quarrel</Single>						
+									</Albums>
+								</Reference>																								
+							<Reference>
+									<Name>Lorn</Name>
+									<Albums>
+										<EP>The Maze To Nowhere</EP>
+										<Album>Ask The Dust</Album>
+										<EP>Down The Traitor Within</EP>				
+									</Albums>
+								</Reference>								
+							
+							
+							
+							
+							</References>
+							<Genres>
+								<Genre>Nu Metal</Genre>
+								<Genre>Industrial Metal</Genre>
+								<Genre>Alternative Metal</Genre>
+								<Genre>Metalcore</Genre>
+								<Genre>Metal</Genre>
+								<Genre>Progressive Metal</Genre>
+								<Genre>Shoegaze</Genre>
+								<Genre>Alternative/Indie</Genre>
+								<Genre>Avant</Genre>
+								<Genre>Art rock</Genre>
+								<Genre>Electronic</Genre>
+								<Genre>Techno</Genre>
+							</Genres>
+						</Band>
+						<Instruments>
+							<Guitar />
+							<Bass />
+							<Piano />
+							<Vocal />
+							<ElectronicProduction />
+						</Instruments>
+					</Virtuoso>
+					<FavoredCuisines>
+						<Italian />
+						<Cajun />
+						<Greek />
+						<Mexican />
+						<American />
+						<Polish />
+					</FavoredCuisines>
+					
+				</Misc>
+			</Character>
+			<Character> <!-- Aurelia -->
+				<Name>Aurelia Duval</Name>
+					<Nicknames>
+						<Nickname>Aury</Nickname>
+						<Nickname>Xibir</Nickname>
+						<Nickname>Ripley</Nickname>
+					</Nicknames>
+				<Gender>Female</Gender>
+				<Sexuality>Bisexual</Sexuality>
+				<Species>Transcedent</Species>
+				<Affliation>Terminus</Affliation>
+				<Skills>
+					<Arcanist />
+					<AtomManipulation />
+					<Marksmanship />
+					<Inventing />
+					<MartialCombat />
+			  </Skills>
+				<MainLanguage>Kryukian</MainLanguage>
+					<LanguagesLearned>
+						<Language>English</Language>
+						<Language>Norse</Language>
+					</LanguagesLearned>
+					<Comparison>
+						<Reference>
+							<Name>Dream</Name>
+							<Franchise>Sandman Comics</Franchise>
+							<Author>Neil Gaiman</Author>
+						</Reference>
+					</Comparison>
+					<Family></Family>
+					<Relationships>
+					
+					</Relationships>
+					<Appearance></Appearance>
+					<Style></Style>
+					<Personality>
+						<Traits></Traits>
+						<Behavior></Behavior>
+					</Personality>	
+			</Character>
+			
+			
+			<Character> <!-- Auburn -->
+				<Name>Caed Arterious Nouvisi</Name>
+					<Nicknames>
+						<Nickname>Art</Nickname>
+						<Nickname>Auburn</Nickname>
+						<Nickname>Caed</Nickname>
+					</Nicknames>
+				<Gender>Male</Gender>
+				<Sexuality>Bisexual</Sexuality>
+				<Species>Transcedent</Species>
+				<Affliation>Terminus</Affliation>
+				<Skills>
+					<Psionic />
+					<AtomManipulation />
+					<Marksmanship />
+					<Inventing />
+					<Forging />
+					<Poetry />
+			  </Skills>
+				<MainLanguage>Kryukian</MainLanguage>
+					<LanguagesLearned>
+						<Language>English</Language>
+					</LanguagesLearned>
+				<Comparison>
+						<Reference>
+							<Name>Dream</Name>
+							<Franchise>Sandman Comics</Franchise>
+							<Author>Neil Gaiman</Author>
+						</Reference>
+					</Comparison>
+				<Relationships>
+					<Family>
+						<Name>Taeliv Nouvisi</Name>
+						<Nature>Brother</Nature>
+					</Family>
+					<Family>
+						<Name>Raelyn Nouvisi</Name>
+						<Nature>Twin Sister</Nature>
+					</Family>
+					<Family>
+						<Name>Aurelia Duval</Name>
+						<Nature>Wife</Nature>
+					</Family>
+					<Friendship>
+						<Name>Laurae Nil</Name>
+						<Nature>Close Friend, Mentee</Nature>
+					</Friendship>
+					<Friendship>
+						<Name>Anatole Sidhe</Name>
+						<Nature>Close Friend, Lover</Nature>
+					</Friendship>
+					
+					
+					
+				</Relationships>
+				<Appearance></Appearance>
+				<Style></Style>
+				<Personality>
+						<Traits></Traits>
+						<Behavior></Behavior>
+					</Personality>	
+			</Character>
+
+		</Major>
+		<Minor>
+			<Character>
+			<Name>Durkov</Name>
+		</Character>
+			<Character>
+			<Name>Gally Morsen</Name>
+		</Character>
+			<Character>
+			<Name>Kian</Name>
+		</Character>
+		</Minor>
+</Terminus>
+</Characters>
