@@ -4,7 +4,7 @@ Some, such as Sidewinder and Necrohack were fully designed with the intention to
 
 All the ideas are mine alone; however, the template for them is free to use with appropriate credit.
 
-## Table of Contents
+## Table of Contents - GDD
 
 * __Cipher Protocol Design Document__ - Early Concept document of a contained, zero-sum game. Still in progress. Project Cipher was designed as a horror mystery with the idea of giving clues to the player via a cmd type window. This idea would have used a WorldResourceManager script to keep track of all resources and make sure non spawn back within' certain limits.
 * __OmegaColony_FinalGDD__ - Fully finished game design document of a Space based card game created for a course project in 2018. Playtests included.
@@ -18,3 +18,10 @@ All the ideas are mine alone; however, the template for them is free to use with
 * __Project Kowloon__ - A Battle-Royale type game pitch where all players must ascended contained inside of a Kowloon-style walled city building and must ascend to the top; minimal guns, only using melee. There would have been a gas pushing upwards to keep players progressing.
 * __Project Brimstone__ - A game pitch in video where it's a gameshow based game. The only true direct competitors would have been Fall Guys & Dead Rising: Terror Is Reality. The player goes through seven-layers of hell in game stages and the audience interaction is by spectators *(via Mixer (at the time) or Twitch)*. Each level was one level of hell and the mechanics would match the layer. The player is a lost soul, a contestant in Hell. Dark humor.
 * __Gnosis Bomb__ - A card/board game hybrid where players play on opposite sides of Light and Dark. They must attain enough karmic points to enact a karma bomb or net enough points at the end of the game. (WIP)
+
+
+
+## Table of Contents - XML
+I'm using Notepad++, Altova XMLspy and XML Notepad for this. 
+* __Gnosis Bomb__ - My data-sets for a digital version of gnosis bomb; including C# components that I can use in the Unity Editor to save and load card data and other information.
+* __OpenAI API -- Narrative Concept Test__ - A very small and in-progress part of a type of storytelling solution for myself; it's simple I'm using a combination of C# and Python to execute the program and Python for fine-tuning the XML files as the main reference point. So technically, would be able to generate questions and brainstorm scenarios with the XML files in mind.
