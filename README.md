@@ -24,4 +24,3 @@ All the ideas are mine alone; however, the template for them is free to use with
 ## Table of Contents - XML
 I'm using Notepad++, Altova XMLspy and XML Notepad for this. 
 * __Gnosis Bomb__ - My data-sets for a digital version of gnosis bomb; including C# components that I can use in the Unity Editor to save and load card data and other information.
-* __OpenAI API -- Narrative Concept Test__ - A very small and in-progress part of a type of storytelling solution for myself; it's simple I'm using a combination of C# and Python to execute the program and Python for fine-tuning the XML files as the main reference point. So technically, would be able to generate questions and brainstorm scenarios with the XML files in mind.
