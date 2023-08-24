@@ -4,8 +4,6 @@
 These are game design documents; and high pitch documents that I have created in my endeavours of thinking of projects and exploring ideas. 
 Some, such as Sidewinder and Necrohack were fully designed with the intention to create a prototype, and then start creating scalable iterations based on feedback for a paid project.
 
-All the ideas are mine alone; however, the template for them is free to use with appropriate credit.
-
 ## Table of Contents - GDD
 
 * __Cipher Protocol Design Document__ - Early Concept document of a contained, zero-sum game. Still in progress. Project Cipher was designed as a horror mystery with the idea of giving clues to the player via a cmd type window. This idea would have used a WorldResourceManager script to keep track of all resources and make sure non spawn back within' certain limits.
